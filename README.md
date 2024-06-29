@@ -1,4 +1,19 @@
 # HR-Analytics-Dashboard-
+
+This interactive tool provides deep dives into our company's workforce, empowering data-driven decision making for talent management.
+
+**Key Features**
+
+- **Employee Demographics-** Gain insights into employee age, gender, tenure, and departmental distribution.
+- **Performance Analysis-** Track employee performance metrics and identify correlations with factors like overtime and work-life balance.
+- **Leave Management-** Monitor leave trends and identify potential areas for improvement.
+- **Customization-** The dashboard allows for interactive exploration, letting you filter data by department, job role, and other relevant factors.
+
+**This project demonstrates my skills in**
+
+- Power BI for data visualization and dashboard creation
+- HR data analysis and interpretation
+- Creating compelling data stories
 ---
 https://github.com/Sehan-D-Amendra/HR-Analytics-Dashboard-/assets/89719775/74ebece8-0bd9-4dbc-be3b-9460fd916502
 
